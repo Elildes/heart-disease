@@ -17,5 +17,6 @@ Base de dados experimentais com pacientes sobre doença cardíaca em 4 bancos de
 
 Iremos analisar o banco de dados de Cleveland (experimentos publicados).  
 
+## Importando bibliotecas e dados
 
-
+Quando for carregar o drive fazer as devidas alteraçõe pontando o local do dataset que está na pasta `data`.  
